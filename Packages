@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.eneko
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: Traurige
+Installed-Size: 440
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/动态壁纸1.5.1.deb
+Size: 35404
+MD5sum: 14805921f4256f4c4450a11fdb4c3dc5
+SHA1: 6c2ed02b825bdb9ebb2b4f8fc0dad037e38c2adc
+SHA256: 1f4f0479211fa8930f1608ec01917cd1f7ba0635b4ea3d0d55d58dc63949221d
+Section: Tweaks
+Description: 动态壁纸(锁屏+桌面)
+Author: Traurige
+Name: 动态壁纸
+
 Package: com.sini921.cozybadges
 Version: 2.2-3
 Architecture: iphoneos-arm64
