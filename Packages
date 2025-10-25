@@ -13,6 +13,40 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.floaty
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: EllaSP
+Installed-Size: 512
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debs/Floaty_1.2.deb
+Size: 59928
+MD5sum: 99dbd478631fba9d2824bf57727eb0d8
+SHA1: 99acd10119f74aa6d58042ffcf453856fcee3fff
+SHA256: 27177c5f5465846bdcc9956aaf18608e9765db6245f93f3b6968650c7b6e7bb9
+Section: Tweaks
+Description: 你的旗帜，重新想象。厌倦了杂乱的横幅和错过的警报？Floaty通过在屏幕边缘以优雅的浮动气泡形式将您的警报变为现实，从而改变您的通知体验。受聊天头的便利性启发，Floaty确保您永远不会错过重要的事情，让您保持联系，而不会让您远离正在做的事情。Float不仅仅是一个警报系统；它是一个围绕直观手势和深度定制构建的完整通知中心
+Author: EllaSP
+Name: Floaty
+
+Package: com.sini921.simpleswitch
+Version: 0.0.1-12
+Architecture: iphoneos-arm64
+Maintainer: 绘梨衣
+Installed-Size: 484
+Depends: mobilesubstrate
+Filename: ./debs/日月开关.deb
+Size: 61364
+MD5sum: 9dfa083655dd25f81433613f65ad8b71
+SHA1: 47891dea4dcf24ced9e93f2878431232270c12c4
+SHA256: bd848c23d6d2560595a0ef3dd6c1dc28847f3f086db7b9266624d2c53cc6b55f
+Section: 越狱插件
+Description: 日月开关
+Author: 绘梨衣
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sunmoonswitch.png
+Name: SunmoonSwitch【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/sunmoonswitch/js.json
+
 Package: com.junzai.screenshotwatermark
 Version: 1.0-229+debug
 Architecture: iphoneos-arm64
