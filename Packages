@@ -13,6 +13,25 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.ps.cameramodes
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: org.thebigboss.cameramodes
+Replaces: org.thebigboss.cameramodes
+Provides: org.thebigboss.cameramodes
+Filename: ./debs/相机模式_1.2.2.deb
+Size: 36428
+MD5sum: 0643bf985d6853c97d712bada0e365d7
+SHA1: 6c9b1a80bcb2a00a0fd24644291f7f38ce5a1d7d
+SHA256: eb46d1af2827fc9236899e9819bca75626bd28357ab002e71155d88c3996b133
+Section: Tweaks
+Description: 指定可用的相机模式。
+Author: PoomSmart
+Name: 相机模式
+
 Package: com.floaty
 Version: 1.2
 Architecture: iphoneos-arm64
