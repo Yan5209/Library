@@ -13,6 +13,38 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.junzai.screenshotwatermark
+Version: 1.0-229+debug
+Architecture: iphoneos-arm64
+Maintainer: junzai
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/截图水印&套壳_ 1.0-229.deb
+Size: 570400
+MD5sum: 49cbe0a6da5da234dbdd70e6b3963a72
+SHA1: 7f16f375b8a191e5e95ec63c311716b58d3d117a
+SHA256: 23e7509766a49bd05da02ee7bc611b1b638ddfc0b7130d718131610b1f050b53
+Section: Tweaks
+Description: 全局截图添加水印加套壳截图
+Author: junzai
+Name: 截图水印&套壳
+
+Package: com.nx.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./Stheno_77.1.4.7.deb
+Size: 362452
+MD5sum: 6eececfc72b0435c7583a7e348876bd8
+SHA1: 714b33a453a0d902539145126c4659f29abd88d1
+SHA256: b8af57d03d1a8b734b5e206fdb73aceda87c58eea24841405a2f759719243d6f
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
+
 Package: com.eneko
 Version: 1.5.1
 Architecture: iphoneos-arm64
