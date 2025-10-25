@@ -35,11 +35,43 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1928
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: ./Stheno_77.1.4.7.deb
+Filename: ./debs/Stheno_77.1.4.7.deb
 Size: 362452
 MD5sum: 6eececfc72b0435c7583a7e348876bd8
 SHA1: 714b33a453a0d902539145126c4659f29abd88d1
 SHA256: b8af57d03d1a8b734b5e206fdb73aceda87c58eea24841405a2f759719243d6f
+Section: Tweaks
+Description: Medusa!
+Author: Crassna
+Name: Stheno
+
+Package: com.junzai.screenshotwatermark
+Version: 1.0-192+debug
+Architecture: iphoneos-arm64
+Maintainer: junzai
+Installed-Size: 516
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/截图水印&套壳_ 1.0-192.deb
+Size: 565744
+MD5sum: 43aa7c8dca004dc51c8a0f890998a532
+SHA1: a08bfd96ff9bbf3857a3f85c9ba395b20a24b45b
+SHA256: 1d91264df79078fd373f53bc6578f93d52939be04b3f9778adf701e3fe56693b
+Section: Tweaks
+Description: 全局截图添加水印
+Author: junzai
+Name: 截图水印&套壳
+
+Package: com.nx.stheno
+Version: 77.1.4.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/Stheno_77.1.4.6.deb
+Size: 220792
+MD5sum: e1c2656354e1449b033cc6a24dfd37ab
+SHA1: 525939af4c279806eabdd93276c6958aea2779c0
+SHA256: 0d6aa0d9225dda2f4347f310f931d59289e007917605678f3ccc40551503ed67
 Section: Tweaks
 Description: Medusa!
 Author: Crassna
