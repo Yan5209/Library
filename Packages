@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.yourcompany.xxhook
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: xx
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/一个大布丁_107.deb
+Size: 84120
+MD5sum: c15f780becdfeeaf16c633cd730af492
+SHA1: 3f48248ddaca65f501df410d00977dc145afd695
+SHA256: 2cd15824dac310149d02613507840e3b2f0a4ad750287f0acf658b0568b6babe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: xx
+Name: 一个大布丁
+
 Package: com.ps.cameramodes
 Version: 1.2.2
 Architecture: iphoneos-arm64
