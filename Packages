@@ -13,6 +13,22 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.baiy.dividingline
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: baiy <961666883>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/全局部分分割线隐藏.deb
+Size: 2810
+MD5sum: 55856645ec49c3af72a4ae4a1d9200a4
+SHA1: aacb8d341ea9c2acc4fbed944991d9cc300ae5fd
+SHA256: 66cdf72a3fb64526f60935251ac51ced31528f3e03f087b373deeb2cd5c380ed
+Section: Tweaks
+Description: 隐藏系统以及微信的一些分割线
+Author: 白衣
+Name: 隐藏分割线
+
 Package: com.yourcompany.xxhook
 Version: 1.0.7
 Architecture: iphoneos-arm64
