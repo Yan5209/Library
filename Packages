@@ -764,22 +764,6 @@ Tag: compatible_min::ios13.0
 Author: tesla_man <computerman939+POBsupport@gmail.com>
 Name: 实体按键动画
 
-Package: com.ccborder
-Version: 1.1.2-25
-Architecture: iphoneos-arm64
-Maintainer: fiore & p2kdev & SINI
-Installed-Size: 732
-Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: ./debs/CCBorder.deb
-Size: 110908
-MD5sum: 6a06708db06dfdd0fc92cd024bdfbeb9
-SHA1: ad7713fb7146a2789338304321df7d652585169e
-SHA256: 583034f2c238eda11cfe7d02f60ee553805b3527ed978ceefb69c0b3f3f40979
-Section: 控制中心
-Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
-Author: fiore & p2kdev & SINI
-Name: CCBorder
-
 Package: net.bettercc
 Version: 0.0.5
 Architecture: iphoneos-arm64
@@ -3403,33 +3387,6 @@ SHA256: 53b0a8ec783a9759b968ef979f7f48ad7d8a3e1d51d0836bf6ea119f8c82d048
 Description: 系统相机开启全屏拍照，禁用拍照提示音
 Name: 全屏相机
 
-Package: net.alpine
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: ./debs/Alpine精美TVOS弹窗.deb
-Size: 615064
-MD5sum: 6a3f4546796606b6e8eb825a89577022
-SHA1: ba342ac753458bd8cd1e3135a166f5e84c7dbb86
-SHA256: c2692118140ae43540905369328944a2a52c0e617e4bd7174c4bab47925cf84c
-Description: 替换所有弹窗为精美的TVOS风格，已汉化！
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Alpine TVOS弹窗
-
-Package: com.stepup
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: ETHN
-Filename: ./debs/com.stepup_1.2_iphoneos-arm64.deb
-Size: 70608
-MD5sum: 82ed8700223ef39593857bae2be7ca3d
-SHA1: 7d3c0eb1a25255e690b71ac1ecc5e5afedcd550b
-SHA256: 9925ebf3294d98b34e675fbe3f7258e0e33a8cc7e450d07971d551fdcd627456
-Section: Tweaks
-Description: 更改音量的步数！
-Name: 音量调整
-
 Package: com.brkchen.ChMirror
 Version: 0.4-1
 Architecture: iphoneos-arm64
@@ -3694,23 +3651,6 @@ Section: Tweaks
 Description: 将屏幕截图固定在屏幕上。
 Author: Jonathan Winger-lang
 Name: Snapper 3
-
-Package: com.lclrc.hammerit
-Version: 1.7.1
-Architecture: iphoneos-arm64
-Maintainer: lclrc(SquidForce)
-Installed-Size: 3808
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
-Filename: ./debs/HammerIt.1.7.1.deb
-Size: 789172
-MD5sum: 9d8f0847a46d295424c286bce47c4646
-SHA1: 7307295b61760bf48bec1cf7b9101c094569688f
-SHA256: f4a46094cd813c4fd1d20fdfa7294db681e12a2379912917a262b14d251ce14e
-Section: Tweaks
-Description: 控制您的文本或根据需要进行翻译。
-Author: lclrc(SquidForce)
-Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
-Name: Hammer It
 
 Package: com.dl.lyric-rootless
 Version: 3.0
