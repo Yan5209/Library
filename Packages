@@ -13,6 +13,204 @@ Description: 左滑返回上一页面
 Author: Mao
 Name: 左滑返回
 
+Package: com.Axs.lightisle
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: 旧约
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
+Filename: ./debs/灵动岛手电筒_1.0.0-2_无根.deb
+Size: 953728
+MD5sum: d7de10d50519f18e14bb4e6b5efd2e87
+SHA1: bbd326c180d35cca12a18e61b62752d6efa04e11
+SHA256: 1f557d12f5aeb88024eaf1a92cd8af9f7d5f1ed1497df69ecd4dd94fbcd0c268
+Section: 灵动岛
+Description: 为iOS16添加灵岛手电筒控制
+Author: 旧约
+Icon: https://axs66.github.io/pro/icon/lightisle.png
+Name: LightIsle手电筒
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
+
+Package: com.appiconbundles
+Version: 5.2.0-99
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.appiconbundles_5.2.0-99_iphoneos-arm64.deb
+Size: 53164
+MD5sum: 530c1c64656423ff7a449835d9de93f8
+SHA1: 3a4db8bd8c401e3199c47ec341fbf534d179d40e
+SHA256: 702e8101efe70b40c0b0c99dd530f0f76ba282b4e7fd6774347b97325a8975a2
+Section: Tweaks
+Description: 用包标识符文件名替换/var/mobile/Axs/IconBundles下主题文件夹中的SpringBoard主屏幕和Dock应用程序图标。
+Author: Axs
+Name: AppIcon
+
+Package: com.go.mango
+Version: 0.1-141
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 3224
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.1-141_iphoneos-arm64.deb
+Size: 869164
+MD5sum: f815fda6a59a359ffffcf2f8f7b0da45
+SHA1: 1e70c1cf42c34d38e1211df663ba38900d1c3831
+SHA256: b164795f6f36e3753aa54c49851d226a1b6fb8011d51977cbb4689a497a8f00d
+Section: Tweaks
+Description: 作者很懒，没有写描述，只能自己去发现。
+Author: go
+Name: mango
+
+Package: com.opa334.crane
+Version: 1.3.17-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 3252
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy (>= 1.1.6), com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/Crane_1.3.17-2_iphoneos-arm64.deb
+Size: 605460
+MD5sum: d0adfc2b73afd184579f42704eb7d42e
+SHA1: 0615f1a1ce947695b97ee8172bcdc796bc50cf6e
+SHA256: 71f01efda30a20c76015bee80508af91022d116d6158fe91b9463393188be6ae
+Section: Tweaks
+Description: Multiple containers for your applications!
+Author: opa334
+Name: Crane
+
+Package: com.rain.dock
+Version: 3.6.1
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 712
+Depends: preferenceloader
+Filename: ./debs/com.rain.dock_3.6.1_iphoneos-arm64.deb
+Size: 115980
+MD5sum: 41e096991b52e0623c174748618cf01a
+SHA1: 0485e09009d7847db709ad3f11352f829916a1e2
+SHA256: 050a6eb2873c0d7d0b20a3de6ba45859af24ec7887165bfb49929ddf88c755fc
+Section: Tweaks
+Description: Rain的Dock栏更美观/毛玻璃/发光边框/壁纸联动/电池条/快捷启动/手势操作/霓虹文字/矩阵雨/彩虹边框/生态缸
+Author: Rain
+Name: Rain的Dock
+
+Package: com.susudear.stayshot
+Version: 0.2.8
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 1152
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Provides: com.jontelang.snapper3 (= 1.2.1)
+Filename: ./debs/com.susudear.stayshot_0.2.8_iphoneos-arm64.deb
+Size: 283432
+MD5sum: c26e7f4511c3eeb8fe9c5c225f494caa
+SHA1: 0aea845671f8377edbcef812cd1c506847aba8f3
+SHA256: 67111e15d097adc1151893ebf359a6ecb363d2218c06ff19564d1e284097b9f6
+Section: Tweaks
+Description: 使用Snapper 3兼容的入口点和扩展程序在屏幕上固定裁剪的屏幕截图。
+Author: SuSuDear
+Name: StayShot
+
+Package: com.susudear.susuocr
+Version: 1.0.22
+Architecture: iphoneos-arm64
+Maintainer: SuSuDear
+Installed-Size: 792
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.susudear.susuocr_1.0.22_iphoneos-arm64.deb
+Size: 126284
+MD5sum: cef41853faa25ba013304772d41e2187
+SHA1: cbe19b252f6b49a7f5fb9ca4599bd7d6916b1e93
+SHA256: 2c09a84f6e9f3496da346e9529a4c411612a867c5ec8c39da123ebc00fa47d4d
+Section: Tweaks
+Description: 百度 OCR 识别提取文字、百度翻译和 AI 截图处理，需要自备 API。
+Author: SuSuDear
+Icon: https://repo.susubaby.cn/icons/susuocr.png
+Name: SuSuOCR
+
+Package: com.thefool.tfkeyboardhook
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: thefool
+Installed-Size: 2672
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.thefool.tfkeyboardhook_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 662356
+MD5sum: 93fca3699e018505f8d52da7a157cd0a
+SHA1: 87262be25264d11dea7d905562282faa59b92247
+SHA256: 3929099b3738a9ccbb7e386993ed5b852788f25b0b8f5c249a41e303a62acdbd
+Section: Tweak
+Description: 键盘美化
+Author: thefool
+Name: TFKeyBoardHook
+
+Package: com.xyzl.customnotisoundcn
+Version: 1.7-3-1
+Architecture: iphoneos-arm64
+Maintainer: xyzl
+Installed-Size: 1180
+Depends: mobilesubstrate | libellekit, preferenceloader, com.opa334.altlist, firmware (>= 14.0)
+Filename: ./debs/com.xyzl.customnotisoundcn_1.7-3-1_iphoneos-arm64.deb
+Size: 136848
+MD5sum: aa7cc4b890046150d300ab984caa090a
+SHA1: 972725b9f70832c85e09facb831d659ec44bf475
+SHA256: acc09798c746be1a1b307205b1bc45780df9cfdb7630079102742fe9a73e78dd
+Section: Tweaks
+Description: 自定义App、App内联系人通知声音、振动模式。
+Author: xyzl
+Name: 自定义通知声音
+
+Package: com.yechen.ccmodulebackground
+Version: 0.2.254
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 8992
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.codex.ccmodulebackground
+Replaces: com.codex.ccmodulebackground
+Filename: ./debs/com.yechen.ccmodulebackground_0.2.254_iphoneos-arm64.deb
+Size: 349772
+MD5sum: 65646e8ea15aa0241b6a701758257c0b
+SHA1: b4095aacf9e0f616b1de5b40ff9bc9556cb1eadd
+SHA256: d6d2b7171265cd2231acc181a1012e85fb9207911033ee5a01c4a73d22df8d92
+Section: Tweaks
+Description: 自建控制中心原生模块，支持承载系统原生模块、自定义尺寸和背景。
+Tag: role::enduser, purpose::extension, cydia::requires-respring
+Author: 夜辰
+Icon: file:///var/jb/Library/PreferenceBundles/CCModuleBackgroundPrefs.bundle/icon@3x.png
+Name: CC模块背景
+
+Package: nx.switchicon
+Version: 5.2.0-139
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/nx.switchicon_5.2.0-139_iphoneos-arm64.deb
+Size: 122056
+MD5sum: 3d1bc207caedd25c29963556ad649121
+SHA1: c8f73a99dd8a6493b001519c2ebfcb84a6f4fd94
+SHA256: 92a4eb7d31547ef6dc8671487afb9081fa4be296e509467088e00d1dea1b8c18
+Section: Tweaks
+Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件，需要请联系微信：VCR66T
+ * 一、纯代码开关组
+ * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
+ * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
+ * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
+ * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
+ * 二、素材开关组
+ * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
+ * 2. 支持创建多套，在插件面板自由切换。
+ * 三、温馨提示
+ * 1. 早买早享受，后续免费更新；
+ * 2. 后续增加新样式，新用户可能面临涨价。
+Author: Axs
+Name: Switch Icon
+
 Package: com.charlieleung.trollopenjb
 Version: 1.3.7
 Architecture: iphoneos-arm64
