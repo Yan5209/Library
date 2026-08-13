@@ -16,6 +16,88 @@ Icon: https://axs66.github.io/pro/icon/lightisle.png
 Name: LightIsle手电筒
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
 
+Package: com.25mao.leftpan.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/左滑返回_2.0_iphoneos-arm64.deb
+Size: 32504
+MD5sum: e403224001d227bbe7e0da7870575216
+SHA1: 1ec8be477f03ec9ff21446a9327720caa9a01a24
+SHA256: 0194fce7d7f071a5b28c620974462082246c6662d887f31838e92618b53e39bc
+Section: Rootless
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Name: 左滑返回-Rootless
+
+Package: com.be-huge.insulation
+Version: 0.1.38.1
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 828
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.be-huge.insulation_0.1.38.1_iphoneos-arm64.deb
+Size: 59732
+MD5sum: 28b27349aa2d8a560702ccb8a74f4b77
+SHA1: 417817a73765c65d908c657c46a9b3cb15276a58
+SHA256: a16ad08b248239e9f4e4b6813412925f2f3ca183c2365c0d10422480e906e7f7
+Section: Tweaks
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Author: be-huge & doimty
+Name: insulation
+
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1024476
+MD5sum: 9dedeb0a5e3ddb9a6f1841482368ca77
+SHA1: 30ec1151030f61844feb96c788cfffe7bafae234
+SHA256: b01f1b1b402a215369b7650f6bb2008ef152033cd53630fd547ada43b37bbae1
+Section: Tweaks
+Description: Pin screenshots on the screen.
+Author: Jonathan Winger-lang
+Name: Snapper 3
+
+Package: com.zqbb.hello.keyboard.ai
+Version: 6.3.0-3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 8040
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: cn.zqbb.hello.keyboard.ai
+Filename: ./debs/com.zqbb.hello.keyboard.ai_6.3.0-3_iphoneos-arm64.deb
+Size: 2183344
+MD5sum: 48e33d0f1e6e02ada2f7e40090fe34de
+SHA1: 81cf87969e4f3b5b02914342d3b1ac56e2cc6c6d
+SHA256: b2831dcc1168deb8c53bd63689f810908f30ba59126dca8f0fd463406dcac809
+Section: Tweaks
+Description: Quickly activate AI mode.
+Author: zqbb
+Name: HelloKeyboardAI
+
+Package: ws.hbang.newterm3
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 玩游戏的李子- <xuanhua880@gmail.com>
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Filename: ./debs/NewTerm3中文版.deb
+Size: 21961256
+MD5sum: 610f69d7242460d71b418bb1ffa939ce
+SHA1: 27a2d29fd6c9305bad03baa322db4aa66366ff7d
+SHA256: a95916165c6042ad205fd139cc0445efc50d28f6f2f8bddc46066021b5aa69cf
+Section: Tweaks
+Description: newterm3中文版(带theos包，无sdk)
+Author: 玩游戏的李子- <xuanhua880@gmail.com>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Name: NewTerm3中文版
+
 Package: com.appiconbundles
 Version: 5.2.0-99
 Architecture: iphoneos-arm64
