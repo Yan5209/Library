@@ -16,6 +16,56 @@ Icon: https://axs66.github.io/pro/icon/lightisle.png
 Name: LightIsle手电筒
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
 
+Package: com.rain.dynamicbattery
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: Rain
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.rain.dynamicbattery_1.3.1_iphoneos-arm64.deb
+Size: 74748
+MD5sum: 566154ff1060f27e0838202e1780aa52
+SHA1: 17a6627d3804a2123d4763716409e839a707a623
+SHA256: 8ae6c6a04790a9a5e6257f57902785fe7629209396bfc048e22e49bf40919417
+Section: Tweaks
+Description: 智能环岛、自定义电池面板与动态皮肤。适配 iPhone 15 Pro Max、iPhone 15 Pro、iPhone 15 Plus、iPhone 15。
+Author: Rain
+Name: Rain的灵动电量
+
+Package: com.wkk.keyboardx
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 516
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.wkk.keyboardx_1.0-6_iphoneos-arm64.deb
+Size: 64172
+MD5sum: e320de66827a74f0cee9ef0225578260
+SHA1: 44eed63a166b40f56a46081aaeaf87930a128bf9
+SHA256: a379b10a890d5e4b786e9a827e7e999ce980f3ab69d5480defcccdd03c9f8128
+Section: Tweaks
+Description: 键盘调整。
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: KeyboardX
+
+Package: com.wkk.systembox
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: wkk
+Installed-Size: 1244
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.wkk.systembox_1.3-5_iphoneos-arm64.deb
+Size: 226700
+MD5sum: 0b0e7f1d60fb4ae6c50ee30f477e97d1
+SHA1: 119bf4cdbc13addce170966885fc79c1a19f9b19
+SHA256: dbf92c77fcb2785134b724c9483562ec867b4e181a9a9362d9f2ef8cff829dc4
+Section: Tweaks
+Description: cool
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: SystemX
+
 Package: com.25mao.leftpan.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
